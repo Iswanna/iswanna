@@ -12,7 +12,6 @@ I am a Full-Stack Developer in Gloucester, UK. I used to work as a Civil Enginee
 I enjoy building apps that update instantly and work for everyone. I am a big fan of **Clean Code** and **Testing**, which means I make sure my software is reliable and easy for other developers to understand.
 
 - 🌱 **Learning More:** Better ways to organize server code, handle data safely, and use databases.
-- 💬 **Ask me about:** JavaScript logic, testing my code (Jest/Chai), and making websites accessible for everyone.
 - 📫 **How to reach me:** belloiswat@gmail.com
 
 ## 🛠 Tech Stack:
